@@ -1,0 +1,13 @@
+Search - Nizhnekamsk Sietl - - - - - - -
+Search - Krasnodar Missuri - - - - - -
+Search - - Moskva - - - - - -
+Search - Krasnodar  - 2022.07.13_12:06 - - - - -
+Search 002503 - - - - - - - -
+Search - - - 2022_06_18_20:10 - - - 4500 RedWings
+
+Add 100001. Moskva Novorossijsk 2022.06.18_20:10 2022.06.18_23:20 35 150 5216 RedWings 3
+Search - Moskva Novorossijsk 2022.06.18_20:10 2022.06.18_23:20 35 150 5216 RedWings 
+Delete 000002. Dubaj Litl-Rok 2022.07.27_19:02 2022.07.28_22:36 64 29 4900 ScandinavianAirlines
+Search - Dubaj Litl-Rok 2022.07.27_19:02 2022.07.28_22:36 64 29 4900 ScandinavianAirlines
+Buy 100001. Moskva Novorossijsk 2022.06.18_20:10 3
+Buy 100001. Moskva Novorossijsk 2022.06.18_20:10 35
